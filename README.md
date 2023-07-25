@@ -10,9 +10,9 @@ Second bootcamp challenge
 
 ## Links
 
-- [Repo](https://github.com/lisaericksoncoding/Portfolio "Portfolio Repo")
+- [Repo](https://github.com/lisaericksoncoding/Portfolio_Original "Portfolio Repo")
 
-- [Live](https://lisaericksoncoding.github.io/Portfolio/ "Live View")
+- [Live](https://lisaericksoncoding.github.io/Portfolio_Original/ "Live View")
 
 ## Built With
 
